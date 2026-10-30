@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+    color: gold;
+    font-family: Georgia, serif;
+}
+
+.destaque {
+    background-color: gold;
+    color: black;
+    margin: 25px;
+    padding: 15px;
+}
+
+a {
+    color: gold;
+}
+
+/*
+AVALIAÇÃO METACOGNITIVA
+
+1. Desafio Técnico:
+A parte mais dificil de de fazer isto em CSS foi o facto da linguagem ser mais complicada e como já me tinha abituado ao html daí ser mais dificil.
+Superei esta dificuldade pedindo ao gemini para me ir esclarecendo várias duvidas que tive ao longo do processo.
+
+2. Correção de Sintaxe:
+(escreve aqui o erro mais comum que tiveste de corrigir)
+
+3. Autoria:
+(escolhe href OU src e explica num único parágrafo, por palavras tuas, para que serve)
+*/
