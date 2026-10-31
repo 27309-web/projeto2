@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+    color: gold;
+    font-family: Georgia, serif;
+}
+
+.destaque {
+    background-color: gold;
+    color: black;
+    margin: 25px;
+    padding: 15px;
+}
+
+a {
+    color: gold;
+}
+
+/*
+AVALIAÇÃO METACOGNITIVA
+
+1. Desafio Técnico:
+Oque mais me deu trabalho foi a separação das coisas como no body fica o background-color a color e front famaly,
+ para o h1 e h2 volto a por isso e repetir o processo. Consegui superar pois fiz várias tentativas. 
+
+2. Correção de Sintaxe:
+Ter que acabar cada linha com um ";" e esquecer alguns "{".
+
+3. Autoria:
+o "href" serve para levar as pessoas a outro sitio atraves de um link e o "src" serve para mostar imagens.
+*/
